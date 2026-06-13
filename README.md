@@ -27,15 +27,7 @@ The system collects student information through a web form and generates a perso
 
 ## Workflow
 
-Form Submission
-↓
-AI Agent (Groq AI)
-↓
-Code Node
-↓
-Generate HTML Template
-↓
-Form Ending
+Form Submission → AI Agent (Groq AI) → Code Node → Generate HTML Template →Form Ending 
 
 ## Project Output
 
